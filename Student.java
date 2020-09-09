@@ -1,6 +1,6 @@
 package learning.java.school;
 
-class Student {
+class Student{
     private String name;
     private String code;
 
