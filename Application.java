@@ -2,7 +2,7 @@ package  learning.java.school;
 
 import java.util.Scanner;
 
-public class Application{
+public class Application {
     public static void main(String[] args) {
         Student[] students = new Student[]{
                 new Student("Edilberto", "1"),

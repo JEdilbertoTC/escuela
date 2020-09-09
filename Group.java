@@ -1,6 +1,6 @@
 package learning.java.school;
 
-class Group{
+class Group {
     private Professor professor;
     private int availability;
     private Student[] students;
