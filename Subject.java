@@ -1,6 +1,6 @@
 package learning.java.school;
 
-class Subject{
+class Subject {
     private String name;
     private int credits;
 
